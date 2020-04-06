@@ -1,0 +1,66 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+body{
+	background-color: grey;
+}
+#top_menu{background-color: rgba(50,205,50,0.7);
+	      text-align: center;
+	      height: 150px;
+          color: black;
+          margin-right: 170px;
+          margin-left: 170px;
+
+
+      }
+          #top_menu li{
+          	background-color: rgba(50,254,50,0.8);
+            width: 180px;
+            float: left;
+          	list-style: none;
+          	margin-top: 28px;
+
+          	padding: 12px;
+          	font: bold 20px Tahomal;}
+
+
+          	#content{background-color: rgba(50,205,50,0.7);
+          		margin-left: 170px;
+          		margin-right: 170px;
+          		margin-top: 5px;
+          		height:350px;
+          		
+          	}
+          	#section1{background-color:rgba(50,254,50,0.8);
+          		padding-top: 50px;
+          	     width: 780px;
+          	     height: 295px;
+          	     text-align: center;
+          	     margin-left: 4px;
+          	 
+
+          		
+          	}
+
+
+          	#side{
+          		float: right;
+          		background-color: rgba(50,254,50,0.8);
+          		width: 233px;
+          	     height: 345px;
+          	     text-align: center;
+          	     margin-right: 4px;
+          	}
+     #footer{
+       background-color: rgba(50,205,50,0.7);
+          		margin-left: 170px;
+          		margin-right: 170px;
+          		padding: 15px;
+          		margin-top: 5px;
+          		
+          		height:110px; 
+          		color: black;
+
+     }
